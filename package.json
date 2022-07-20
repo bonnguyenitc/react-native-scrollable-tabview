@@ -26,6 +26,8 @@
   },
   "peerDependencies": {},
   "homepage": "https://github.com/bonnguyenitc/react-native-scrollable-tabview#readme",
-  "dependencies": {},
+  "dependencies": {
+    "deprecated-react-native-prop-types": "2.2.0"
+  },
   "devDependencies": {}
 }
